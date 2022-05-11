@@ -1,0 +1,29 @@
+/*
+Theme Name: Twenty Twenty-One-Child
+Text Domain: twentytwentyone
+Template: twentytwentyone
+*/
+
+.swiper-container {
+    width: 600px;
+    height: 300px;
+}
+
+.parent-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+parent {
+    flex: 30%;
+    padding: 0 18px;
+    overflow-y: hidden;
+}
+
+.cover-header {
+max-height: 35vh!important;
+}
+
+.entry-header {
+display: none;
+}

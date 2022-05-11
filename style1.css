@@ -1,0 +1,18 @@
+/*
+Theme Name: Twenty Twenty-One-Child
+Text Domain: twentytwentyone
+Template: twentytwentyone
+*/
+
+
+:root{
+
+    --global--color-primary: var(--global--color-dark-blue);
+
+}
+
+.boris {
+    
+    color: var(--global--color-dark-blue);
+	
+}
